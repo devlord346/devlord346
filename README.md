@@ -1,4 +1,4 @@
-## This is not my main Github account. created this one for upwork uses only. 
+## This is not my main Github account. I created this one for my freelancing plateform uses only. 
 
 <!--
 **devlord346/devlord346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
